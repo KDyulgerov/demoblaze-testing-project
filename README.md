@@ -1,3 +1,3 @@
-# DemoBlaze Testing Prject
+# DemoBlaze Testing Project
 
 # Selenium with C# and NUnit
